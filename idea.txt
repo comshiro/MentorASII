@@ -1,0 +1,43 @@
+react native - frontend 
+sau flutter
+memo ? 
+
+
+AccesNav
+
+app in 2 
+-ruta step free - alg rutare
+-facem graf OSM?-online digital mapping - care calc acc score a unei rute
+-procesam rutele de la streetview - lasam alg in spate sa observe obiecte pe drum/cat de larg e trotuarul
+-
+
+https://makeabilitylab.cs.washington.edu/project/sidewalk/
+https://guides.library.ttu.edu/c.php?g=1398509
+https://accessiblego.com/
+https://www.iaccess.life/
+
+Soundscape?
+
+skeggle
+
+https://developers.google.com/maps/documentation/javascript/examples/streetview-service
+
+cuda nvidia
+
+https://developer.nvidia.com/cuda-downloads
+
+https://www.youtube.com/watch?v=l6PgYhiQr-I&ab_channel=MicrosoftVisualStudio
+
+zona arhitecturala/interfata
+fa o varianta alfa de model
+apoi v2 - agumentaari, maresti setul de date 
+
+rata de invatare - raportat la metoda gradientului - gradient decent
+
+test 
+train - real/fake
+
+2 modele
+    - model nivel accesibilitate
+    - preprocesare imagini
+

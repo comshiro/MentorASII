@@ -1,0 +1,12 @@
+data:
+  train: data/splits/train.txt
+  val: data/splits/val.txt
+  test: data/splits/test.txt
+  names: [sidewalk, obstacle, curb_ramp, surface_defect]
+
+model:
+  depth_mul: 0.33
+  width_mul: 0.50
+  backbone_depths: [1, 2, 3, 1]
+  backbone_channels: [32, 64, 128, 256, 512]
+  proto_channels: 32
